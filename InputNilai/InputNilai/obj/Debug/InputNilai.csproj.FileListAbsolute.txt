@@ -1,0 +1,6 @@
+c:\users\didin\documents\visual studio 2012\Projects\InputNilai\InputNilai\bin\Debug\InputNilai.exe.config
+c:\users\didin\documents\visual studio 2012\Projects\InputNilai\InputNilai\bin\Debug\InputNilai.exe
+c:\users\didin\documents\visual studio 2012\Projects\InputNilai\InputNilai\bin\Debug\InputNilai.pdb
+c:\users\didin\documents\visual studio 2012\Projects\InputNilai\InputNilai\obj\Debug\InputNilai.csprojResolveAssemblyReference.cache
+c:\users\didin\documents\visual studio 2012\Projects\InputNilai\InputNilai\obj\Debug\InputNilai.exe
+c:\users\didin\documents\visual studio 2012\Projects\InputNilai\InputNilai\obj\Debug\InputNilai.pdb

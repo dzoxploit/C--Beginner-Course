@@ -1,0 +1,5 @@
+c:\users\didin\documents\visual studio 2012\Projects\projectweb2didinnuryahya51419788\projectweb2didinnuryahya51419788\bin\projectweb2didinnuryahya51419788.dll
+c:\users\didin\documents\visual studio 2012\Projects\projectweb2didinnuryahya51419788\projectweb2didinnuryahya51419788\bin\projectweb2didinnuryahya51419788.pdb
+c:\users\didin\documents\visual studio 2012\Projects\projectweb2didinnuryahya51419788\projectweb2didinnuryahya51419788\obj\Debug\projectweb2didinnuryahya51419788.csprojResolveAssemblyReference.cache
+c:\users\didin\documents\visual studio 2012\Projects\projectweb2didinnuryahya51419788\projectweb2didinnuryahya51419788\obj\Debug\projectweb2didinnuryahya51419788.dll
+c:\users\didin\documents\visual studio 2012\Projects\projectweb2didinnuryahya51419788\projectweb2didinnuryahya51419788\obj\Debug\projectweb2didinnuryahya51419788.pdb

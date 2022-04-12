@@ -1,0 +1,6 @@
+c:\users\didin\documents\visual studio 2012\Projects\QuickAddUser\QuickAddUser\bin\Debug\QuickAddUser.exe.config
+c:\users\didin\documents\visual studio 2012\Projects\QuickAddUser\QuickAddUser\obj\Debug\QuickAddUser.csprojResolveAssemblyReference.cache
+c:\users\didin\documents\visual studio 2012\Projects\QuickAddUser\QuickAddUser\bin\Debug\QuickAddUser.exe
+c:\users\didin\documents\visual studio 2012\Projects\QuickAddUser\QuickAddUser\bin\Debug\QuickAddUser.pdb
+c:\users\didin\documents\visual studio 2012\Projects\QuickAddUser\QuickAddUser\obj\Debug\QuickAddUser.exe
+c:\users\didin\documents\visual studio 2012\Projects\QuickAddUser\QuickAddUser\obj\Debug\QuickAddUser.pdb

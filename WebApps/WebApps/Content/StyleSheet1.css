@@ -1,0 +1,43 @@
+﻿*{
+margin:0;
+font-family:calibri, "segoe ui", arial, tahoma, sans-serif;
+}
+body{
+background-color:#DDDDDD;
+}
+h1 {
+color:white;
+text-align:center;
+font-size:60px;
+background-color:black;
+height:80px;
+margin-top:20px;
+}
+h3 {
+color:white;
+text-align:center;
+font-size:60px;
+background-color:black;
+height:80px;
+margin-top:20px;
+}
+table {
+text-align:center;
+margin-top:80px;
+margin-left:400px;
+width: 50%;
+height:400px;
+}
+button {
+    text-align:center;
+    margin-top:80px;
+    margin-left:400px;
+    width: 50%;
+    height:100px;
+
+}
+
+img {
+width:300px;
+height:400px;
+}

@@ -1,0 +1,6 @@
+c:\users\didin\documents\visual studio 2012\Projects\Pertemuan4\Pertemuan4\bin\Debug\Pertemuan4.exe.config
+c:\users\didin\documents\visual studio 2012\Projects\Pertemuan4\Pertemuan4\bin\Debug\Pertemuan4.exe
+c:\users\didin\documents\visual studio 2012\Projects\Pertemuan4\Pertemuan4\bin\Debug\Pertemuan4.pdb
+c:\users\didin\documents\visual studio 2012\Projects\Pertemuan4\Pertemuan4\obj\Debug\Pertemuan4.csprojResolveAssemblyReference.cache
+c:\users\didin\documents\visual studio 2012\Projects\Pertemuan4\Pertemuan4\obj\Debug\Pertemuan4.exe
+c:\users\didin\documents\visual studio 2012\Projects\Pertemuan4\Pertemuan4\obj\Debug\Pertemuan4.pdb

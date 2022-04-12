@@ -1,0 +1,33 @@
+﻿ul#menu li {
+ display: inline;
+ padding-left: 20%;
+ text-align: center;
+ font-family: 'Tempus Sans ITC';
+}
+#border {
+ float: left;
+ margin-left: 10%;
+ width: 85%;
+ border-bottom: 2px solid #f51c40;}
+a {
+ font-style: normal;
+ color: #FF0066;
+ border: solid;
+ border-width: medium;
+}
+td#log {
+ border-right: solid;
+ border-width: thin;
+ border-color: #f51c40;
+}
+#tbl {
+ float: left;
+ margin-right: 5%;
+ margin-left: 5%;
+}
+#ttg {
+ text-align: justify;
+}
+#form1 {
+ padding-left: 10px;
+}

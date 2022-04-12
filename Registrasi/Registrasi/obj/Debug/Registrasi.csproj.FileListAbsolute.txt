@@ -1,0 +1,6 @@
+c:\users\didin\documents\visual studio 2012\Projects\Registrasi\Registrasi\bin\Debug\Registrasi.exe.config
+c:\users\didin\documents\visual studio 2012\Projects\Registrasi\Registrasi\bin\Debug\Registrasi.exe
+c:\users\didin\documents\visual studio 2012\Projects\Registrasi\Registrasi\bin\Debug\Registrasi.pdb
+c:\users\didin\documents\visual studio 2012\Projects\Registrasi\Registrasi\obj\Debug\Registrasi.csprojResolveAssemblyReference.cache
+c:\users\didin\documents\visual studio 2012\Projects\Registrasi\Registrasi\obj\Debug\Registrasi.exe
+c:\users\didin\documents\visual studio 2012\Projects\Registrasi\Registrasi\obj\Debug\Registrasi.pdb

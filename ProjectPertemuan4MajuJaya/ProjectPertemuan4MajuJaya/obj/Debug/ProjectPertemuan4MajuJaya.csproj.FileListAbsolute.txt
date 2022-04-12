@@ -1,0 +1,5 @@
+c:\users\didin\documents\visual studio 2012\Projects\ProjectPertemuan4MajuJaya\ProjectPertemuan4MajuJaya\bin\Debug\ProjectPertemuan4MajuJaya.exe.config
+c:\users\didin\documents\visual studio 2012\Projects\ProjectPertemuan4MajuJaya\ProjectPertemuan4MajuJaya\bin\Debug\ProjectPertemuan4MajuJaya.exe
+c:\users\didin\documents\visual studio 2012\Projects\ProjectPertemuan4MajuJaya\ProjectPertemuan4MajuJaya\bin\Debug\ProjectPertemuan4MajuJaya.pdb
+c:\users\didin\documents\visual studio 2012\Projects\ProjectPertemuan4MajuJaya\ProjectPertemuan4MajuJaya\obj\Debug\ProjectPertemuan4MajuJaya.exe
+c:\users\didin\documents\visual studio 2012\Projects\ProjectPertemuan4MajuJaya\ProjectPertemuan4MajuJaya\obj\Debug\ProjectPertemuan4MajuJaya.pdb

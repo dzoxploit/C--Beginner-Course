@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+namespace Pertemuan_1_didinnuryahya_51419788
+{
+    public partial class ListboxExample : System.Web.UI.Page
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            Label1.Text = "Bahasa Yang Dipilih";
+
+            foreach (ListItem item in ListBox1.Items)
+            {
+                if (item.Selected == true)
+                {
+                    Label1.Text = Label1.Text + item.Text;
+                }
+            }
+        }
+    }
+}

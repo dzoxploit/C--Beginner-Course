@@ -1,0 +1,6 @@
+c:\users\didin\documents\visual studio 2012\Projects\DidinNurYahya\DidinNurYahya\bin\Debug\DidinNurYahya.exe.config
+c:\users\didin\documents\visual studio 2012\Projects\DidinNurYahya\DidinNurYahya\bin\Debug\DidinNurYahya.exe
+c:\users\didin\documents\visual studio 2012\Projects\DidinNurYahya\DidinNurYahya\bin\Debug\DidinNurYahya.pdb
+c:\users\didin\documents\visual studio 2012\Projects\DidinNurYahya\DidinNurYahya\obj\Debug\DidinNurYahya.csprojResolveAssemblyReference.cache
+c:\users\didin\documents\visual studio 2012\Projects\DidinNurYahya\DidinNurYahya\obj\Debug\DidinNurYahya.exe
+c:\users\didin\documents\visual studio 2012\Projects\DidinNurYahya\DidinNurYahya\obj\Debug\DidinNurYahya.pdb

@@ -1,0 +1,39 @@
+﻿@{
+    Layout = null;
+}
+
+@model WebApps.Models.daftarmahasiswa
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width">
+    <title>@ViewBag.Title - Lepkom App</title>
+    <link rel="stylesheet" href="../../Content/StyleSheet1.css" type="text/css" />
+
+</head>
+<body>
+   <div class="form1">
+       <h1>Daftar Mahasiswa</h1>
+       <table border="1">
+           <thead>
+               <th>NPM</th>
+               <th>Nama</th>
+               <th>Kelas</th>
+               <th>Action</th>
+           </thead>
+           <tbody>
+               @foreach (var item in Model.mhs) { 
+                    <tr>
+                        <td>@item.npm</td>
+                        <td>@item.nama</td>
+                        <td>@item.kelas</td>
+                        <td><a href="/home/Infomhs/@item.npm">Detail</a></td>
+                    </tr>
+               }
+           </tbody>
+       </table>
+   </div>
+    
+</body>
+</html>
