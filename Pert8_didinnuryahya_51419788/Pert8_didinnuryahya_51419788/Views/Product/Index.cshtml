@@ -1,0 +1,34 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div>
+        <h1>Daftar Produk Jaya Karya</h1>
+        @if (Enumerable.Count(ViewBag.products) > 0)
+        {
+            <ul>
+                @foreach (var product in ViewBag.products)
+                {
+                    <li>
+                        @Html.ActionLink(
+ (String)product.Name,
+ "Details/",
+ new { Id = product.Id }
+ )
+                    </li>
+                }
+            </ul>
+        }
+        else
+        {
+            <i>Belum ada produk</i> 
+        }
+    </div>
+</body>
+</html>

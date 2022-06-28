@@ -1,0 +1,59 @@
+﻿@model CS_Pert7.Models.User
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>User</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Timestamp)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Timestamp)
+            @Html.ValidationMessageFor(model => model.Timestamp)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.User_Id)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.User_Id)
+            @Html.ValidationMessageFor(model => model.User_Id)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Product_Id)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Product_Id)
+            @Html.ValidationMessageFor(model => model.Product_Id)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Status)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Status)
+            @Html.ValidationMessageFor(model => model.Status)
+        </div>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
