@@ -1,0 +1,34 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div>
+        <h1>Daftar Produk Toko x</h1>
+        @if (Enumerable.Count(ViewBag.barang) > 0)
+        {
+            <ul>
+                @foreach (var barang in ViewBag.barang)
+                {
+                    <li>
+                        @Html.ActionLink(
+ (String)barang.Name,
+ "Details/",
+ new { Id = barang.Id }
+ )
+                    </li>
+                }
+            </ul>
+        }
+        else
+        {
+            <i>Belum ada produk</i> 
+        }
+    </div>
+</body>
+</html>

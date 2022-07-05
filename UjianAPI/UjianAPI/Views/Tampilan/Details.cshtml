@@ -1,0 +1,36 @@
+﻿@model UjianAPI.Models.Barang
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Barang</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Nama)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Nama)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Harga)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Harga)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Stock)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Stock)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
